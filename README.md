@@ -2,7 +2,7 @@
 
 "Little by little, a little becomes a lot" (Tanzanian proverb)
 
-This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses.
+This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
 Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack
 
