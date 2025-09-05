@@ -1,7 +1,8 @@
 #SPDX-License-Identifier: MIT-0
 ---
 - name: install tools
-  apt: name={{item}} state=present update_cache=yes
+  apt: name={{item}} state=present
   with_items:
     - curl
     - python-httplib2
+  tags: [ 'packages' ]
