@@ -4,7 +4,8 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Python, Terraform, Nextflow
+Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Python, Terraform, AWS, Packer, Vagrant, Nextflow
+Operating systems: Red Hat Enterprise (RHE) Linux
 
 Udemy courses:
 
@@ -17,6 +18,12 @@ Udemy courses:
 7. [Kubernetes for the Absolute Beginners - Hands-on](https://hpcnow.udemy.com/course/learn-kubernetes/learn/lecture/9703196#overview)
 8. [Ethical Hacking with Python and Kali Linux from Scratch](https://hpcnow.udemy.com/course/learn-ethical-hacking-with-python-and-kali-from-scratch/learn/lecture/50771907#overview)
 9. [Terraform for the Absolute Beginners with Labs](https://hpcnow.udemy.com/course/terraform-for-the-absolute-beginners/learn/lecture/27877152#overview)
+10. [AWS Infrastructure as Code With Terraform](https://hpcnow.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/learn/lecture/5890850#overview)
+11. [Building Automated Machine Images with HashiCorp Packer](https://hpcnow.udemy.com/course/hashicorp-packer/learn/lecture/26239090#overview)
+12. [Administration of Red Hat Enterprise Linux](https://hpcnow.udemy.com/course/administrating-red-hat-enterprise-linux-el-administration/learn/lecture/8055206#overview)
+13. [Certified Kubernetes Administrator (CKA) with Practice Tests](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview)
+14. [DevOps Beginners to Advanced with Projects](https://hpcnow.udemy.com/course/decodingdevops/learn/lecture/27976104#overview)
+15. [Vagrant Up! Comprehensive Development System Automation](https://hpcnow.udemy.com/course/vagrant-up/learn/lecture/1666296#overview)
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
