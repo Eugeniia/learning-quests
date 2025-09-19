@@ -4,8 +4,9 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Python, Terraform, AWS, Packer, Vagrant, Nextflow
+Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow
 Operating systems: Red Hat Enterprise (RHE) Linux
+Programming languages: Python, HCL, Jinja
 
 Udemy courses:
 
