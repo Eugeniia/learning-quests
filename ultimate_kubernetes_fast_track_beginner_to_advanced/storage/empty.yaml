@@ -16,7 +16,7 @@ spec:
       - containerPort: 80
     volumeMounts:
       - name:  mystorage
-      mountPath:  /etc/certs
+        mountPath: /etc/certs
   volumes:
     - name:  mystorage
       emptyDir: {}
