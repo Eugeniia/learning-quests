@@ -4,7 +4,7 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow
+Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
@@ -33,3 +33,4 @@ Tutorials:
 2. [Nextflow for Science](https://training.nextflow.io/latest/#nextflow-for-science)
 3. [Advanced Nextflow Training](https://training.nextflow.io/latest/#advanced-nextflow-training)
 4. [Spack 101](https://spack-tutorial.readthedocs.io/en/latest/)
+5. [Thanos Intro: Global View and seamless HA for Prometheus](https://killercoda.com/thanos/scenario/1-globalview)
