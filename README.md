@@ -32,3 +32,4 @@ Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
 2. [Nextflow for Science](https://training.nextflow.io/latest/#nextflow-for-science)
 3. [Advanced Nextflow Training](https://training.nextflow.io/latest/#advanced-nextflow-training)
+4. [Spack 101](https://spack-tutorial.readthedocs.io/en/latest/)
