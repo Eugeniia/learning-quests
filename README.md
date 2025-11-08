@@ -4,7 +4,7 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow
+Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
@@ -12,8 +12,8 @@ Programming languages: Python, HCL, Jinja
 
 Udemy courses:
 
-1. [Mastering Ansible](https://hpcnow.udemy.com/course/mastering-ansible/learn/lecture/3748122#overview) [COMPLETE]
-2. [Ultimate Kubernetes Fast-Track Beginner to Advanced](https://hpcnow.udemy.com/course/kubernetes-fast-track/learn/lecture/19167994#overview) [COMPLETE]
+1. [COMPLETE] [Mastering Ansible](https://hpcnow.udemy.com/course/mastering-ansible/learn/lecture/3748122#overview)
+2. [COMPLETE] [Ultimate Kubernetes Fast-Track Beginner to Advanced](https://hpcnow.udemy.com/course/kubernetes-fast-track/learn/lecture/19167994#overview)
 3. [Beginners Guide: Practical Quantum Computing with IBM Qiskit](https://hpcnow.udemy.com/course/dummies-guide-to-practical-quantum-computing-with-ibm-qiskit/learn/lecture/22882296#overview)
 4. [OpenStack Essentials](https://hpcnow.udemy.com/course/openstack/learn/lecture/6728818#overview)
 5. [QC101 Quantum Computing & Intro to Quantum Machine Learning](https://hpcnow.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/learn/)
@@ -32,3 +32,5 @@ Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
 2. [Nextflow for Science](https://training.nextflow.io/latest/#nextflow-for-science)
 3. [Advanced Nextflow Training](https://training.nextflow.io/latest/#advanced-nextflow-training)
+4. [Spack 101](https://spack-tutorial.readthedocs.io/en/latest/)
+5. [Thanos Intro: Global View and seamless HA for Prometheus](https://killercoda.com/thanos/scenario/1-globalview)
