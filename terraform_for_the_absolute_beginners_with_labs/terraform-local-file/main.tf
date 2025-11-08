@@ -1,6 +1,13 @@
 resource "local_file" "pet" {
   filename = var.filename
   content = "My favorite pet is ${random_pet.my-pet.id}"
+  file_permission = "0700"
+
+  lifecycle {
+     #create_before_destroy = true
+     #ignore_changes = all
+     prevent_destroy = true
+  }
 }
 resource "random_pet" "my-pet" {
   prefix = var.prefix[0]
