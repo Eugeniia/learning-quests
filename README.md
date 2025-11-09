@@ -8,7 +8,7 @@ Tech stack: Ansible, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, 
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
-Programming languages: Python, HCL, Jinja
+Programming languages: Python, HCL, Jinja, Bash
 
 Udemy courses:
 
