@@ -1,6 +1,7 @@
 resource "local_file" "pet" {
   filename = var.filename
   content = "My favorite pet is ${random_pet.my-pet.id}"
+  #content = data.local_file.dog.content
   file_permission = "0700"
 
   lifecycle {
@@ -9,6 +10,11 @@ resource "local_file" "pet" {
      prevent_destroy = true
   }
 }
+
+#data "local_file" "dog" {
+#  filename = "/root/dog.txt"
+#}
+
 resource "random_pet" "my-pet" {
   prefix = var.prefix[0]
   separator = var.separator
