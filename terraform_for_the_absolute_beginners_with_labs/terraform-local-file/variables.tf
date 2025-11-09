@@ -1,7 +1,13 @@
 variable "filename" {
-       default = "/home/evgeniia/Desktop/DoItNow/udemy/learning-quests/terraform_for_the_absolute_beginners_with_labs/terraform-local-file/pets.txt"
-       type = string
-       description = "the path of the local file"
+       #default = "/home/evgeniia/Desktop/DoItNow/udemy/learning-quests/terraform_for_the_absolute_beginners_with_labs/terraform-local-file/pets.txt"
+       default = [
+         "/home/evgeniia/Desktop/DoItNow/udemy/learning-quests/terraform_for_the_absolute_beginners_with_labs/terraform-local-file/pets.txt",
+         "/home/evgeniia/Desktop/DoItNow/udemy/learning-quests/terraform_for_the_absolute_beginners_with_labs/terraform-local-file/dogs.txt",
+         "/home/evgeniia/Desktop/DoItNow/udemy/learning-quests/terraform_for_the_absolute_beginners_with_labs/terraform-local-file/cats.txt"
+       ]
+       #type = string
+       #type = set(string)
+       #description = "the path of the local file"
 }
 variable "content" {
        default = "We love pets!"
