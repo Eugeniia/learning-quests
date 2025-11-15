@@ -7,6 +7,57 @@
 #  }
 #}
 
+## AWS IAm with Terraform
+#provider "aws" {
+#    region = "us-west-2"
+#    # In the future, move your access and secret keys to the /aws/credentials file or set up environment variables
+#    access_key = "YOUR _ACCESS_KEY"
+#    secret_key = "YOUR_SECRET_KEY"
+#}
+#
+#resource "aws_iam_user" "admin-user" {
+#    name = "lucy"
+#    tags = {
+#      Description = "Technical Team Leader"
+#    }
+#}
+#
+#resource "aws_iam_policy" "adminUser" {
+#    name = "AdminUsers"
+#    policy = file("admin-policy.jsaon")
+#    policy = <<EOF
+#     {
+#         "Version": "2012-10-17",
+#         "Statement": [
+#             {
+#                 "Effect": "Allow",
+#                 "Action": "*",
+#                 "Resource": "*"
+#             }
+#          ]
+#     }
+#     EOF
+#}
+#
+#resource "aws_iam_user_policy_attachment" "lucy-admin-access" {
+#    user = aws_iam_user.admin-user.name
+#    policy_arn = aws_iam_policy.adminUser.arn
+#}
+
+## AWS S3 with Terraform
+#resource "aws_s3_bucket" "finance" {
+#    bucket = "finance_21092020"
+#    tags = {
+#        Description = "Finance and Payroll"
+#    }
+#}
+#
+#resource "aws+s3_bucket_object" "finance-2020" {
+#    content = "/root/finance/finance-2020.doc"
+#    key = "finance-2020.doc"
+#    bucket = aws_s3_bucket.finance.id
+#}
+
 resource "local_file" "pet" {
   #filename = var.filename[count.index]
   #count = 3
