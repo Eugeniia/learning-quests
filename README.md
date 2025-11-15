@@ -20,7 +20,7 @@ Udemy courses:
 6. [The Complete Quantum Computing Course](https://hpcnow.udemy.com/course/quantum-computers/learn/lecture/26937358#overview)
 7. [Kubernetes for the Absolute Beginners - Hands-on](https://hpcnow.udemy.com/course/learn-kubernetes/learn/lecture/9703196#overview)
 8. [Ethical Hacking with Python and Kali Linux from Scratch](https://hpcnow.udemy.com/course/learn-ethical-hacking-with-python-and-kali-from-scratch/learn/lecture/50771907#overview)
-9. [Terraform for the Absolute Beginners with Labs](https://hpcnow.udemy.com/course/terraform-for-the-absolute-beginners/learn/lecture/27877152#overview)
+9. [COMPLETE] [Terraform for the Absolute Beginners with Labs](https://hpcnow.udemy.com/course/terraform-for-the-absolute-beginners/learn/lecture/27877152#overview)
 10. [AWS Infrastructure as Code With Terraform](https://hpcnow.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/learn/lecture/5890850#overview)
 11. [Building Automated Machine Images with HashiCorp Packer](https://hpcnow.udemy.com/course/hashicorp-packer/learn/lecture/26239090#overview)
 12. [Administration of Red Hat Enterprise Linux](https://hpcnow.udemy.com/course/administrating-red-hat-enterprise-linux-el-administration/learn/lecture/8055206#overview)
