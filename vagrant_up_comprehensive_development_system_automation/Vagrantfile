@@ -1,0 +1,72 @@
+Vagrant.configure("2") do |config|
+    number_of_node = ENV["NODES"] || 2
+    branch = ENV["BRANCH"] || "v4.4.0"
+    ansible_user = ENV["ANSIBLE_USER"] || "doitnow"
+
+    config.vm.define :eessi01 do |master|
+        master.vm.box = "rockylinux/9"
+        master.vm.box_version = "6.0.0"
+        master.vm.hostname = "eessi01"
+
+        master.vm.network "private_network",
+            ip: "10.10.0.1",
+            netmask: "255.255.255.0",
+            libvirt__network_name: "pxe",
+            libvirt__dhcp_enabled: false
+
+        master.vm.synced_folder ".", "/vagrant", type: "nfs", nfs_version: 4, nfs_udp: false
+        #master.vm.synced_folder "/shared", "/shared", type: "nfs", nfs_version: 4, nfs_udp: false
+        #master.vm.synced_folder "/repos", "/repos", type: "nfs", nfs_version: 4, nfs_udp: false
+
+        master.vm.provider :libvirt do |libvirt|
+            libvirt.cpu_mode = "host-passthrough"
+            libvirt.memory = '4096'
+            libvirt.cpus = '2'
+            libvirt.machine_virtual_size = 200
+        end
+
+        master.vm.provision "shell", inline: <<-SHELL
+            dnf install -y cloud-utils-growpart
+            growpart /dev/vda 5
+            xfs_growfs /dev/vda5
+        SHELL
+
+        master.vm.provision "shell", inline: <<-SHELL
+            adduser #{ansible_user}
+            echo "%#{ansible_user} ALL=(ALL) NOPASSWD: ALL" >> /etc/sudoers.d/vagrant
+            mkdir /home/#{ansible_user}/.ssh
+            cp /home/vagrant/.ssh/authorized_keys /home/#{ansible_user}/.ssh/
+            chown -R #{ansible_user}:#{ansible_user} /home/#{ansible_user}/.ssh/
+            dnf install -y epel-release
+            dnf config-manager --set-enabled crb
+            dnf install -y ansible git vim byobu
+            ansible-galaxy collection install ansible.posix
+            ansible-galaxy collection install community.general
+            #su #{ansible_user} -c 'cd ~
+            #  if [ ! -d "kubernetes_on_warewulf" ]; then
+            #    git clone https://x-token-auth:ATCTT3xFfGN0CQ8ug_kMCURDD7THn6tgcVLXGbmZNS3zdxmRcY8lkDUSpqYLF-7nXCOApOkV9mJyHmvnr773TC5kWSNmw7k-4d-QVj8R4vCAfsPvJc0R-P1jyZrojxHY5lI19IQ9j-B1Vd2C69madXqIxeCaoAhwj7PkGPUx8mwBNew4tQA5dts=FA9D6EC7@bitbucket.org/hpcnow/kubernetes_on_warewulf.git
+            #  fi
+            #  cd kubernetes_on_warewulf/ansible
+            #  #ansible-playbook master_node.yml
+            #'
+        SHELL
+
+        #master.vm.provision "reload"
+    end
+
+    (1..number_of_node).each do |i|
+        config.vm.define :"n0#{i}", autostart: false do |node|
+            node.vm.hostname = "n00#{i}"
+            node.vm.network "private_network",
+            libvirt__network_name: "pxe"
+
+            node.vm.provider :libvirt do |compute|
+                compute.cpu_mode = 'host-passthrough'
+                compute.memory = '4096'
+                compute.cpus = '2'
+                boot_network = {'network' => 'pxe'}
+                compute.boot boot_network
+            end
+        end
+    end
+end

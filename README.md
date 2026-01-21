@@ -27,6 +27,7 @@ Udemy courses:
 13. [Certified Kubernetes Administrator (CKA) with Practice Tests](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/learn/lecture/14224074#overview)
 14. [DevOps Beginners to Advanced with Projects](https://hpcnow.udemy.com/course/decodingdevops/learn/lecture/27976104#overview)
 15. [Vagrant Up! Comprehensive Development System Automation](https://hpcnow.udemy.com/course/vagrant-up/learn/lecture/1666296#overview)
+16. [Certified Kubernetes Administrator 2026](https://hpcnow.udemy.com/course/certified-kubernetes-administrator/learn/lecture/48232171#overview)
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
