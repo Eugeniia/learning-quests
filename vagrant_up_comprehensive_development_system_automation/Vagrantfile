@@ -42,13 +42,6 @@ Vagrant.configure("2") do |config|
             dnf install -y ansible git vim byobu
             ansible-galaxy collection install ansible.posix
             ansible-galaxy collection install community.general
-            #su #{ansible_user} -c 'cd ~
-            #  if [ ! -d "kubernetes_on_warewulf" ]; then
-            #    git clone https://x-token-auth:ATCTT3xFfGN0CQ8ug_kMCURDD7THn6tgcVLXGbmZNS3zdxmRcY8lkDUSpqYLF-7nXCOApOkV9mJyHmvnr773TC5kWSNmw7k-4d-QVj8R4vCAfsPvJc0R-P1jyZrojxHY5lI19IQ9j-B1Vd2C69madXqIxeCaoAhwj7PkGPUx8mwBNew4tQA5dts=FA9D6EC7@bitbucket.org/hpcnow/kubernetes_on_warewulf.git
-            #  fi
-            #  cd kubernetes_on_warewulf/ansible
-            #  #ansible-playbook master_node.yml
-            #'
         SHELL
 
         #master.vm.provision "reload"
