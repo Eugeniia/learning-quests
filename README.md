@@ -4,11 +4,11 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos
+Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
-Programming languages: Python, HCL, Jinja, Ruby, Bash
+Programming languages: Python, HCL, Jinja, Ruby, Shell
 
 Udemy courses:
 
@@ -29,7 +29,7 @@ Udemy courses:
 15. [COMPLETE] [Vagrant Up! Comprehensive Development System Automation](https://hpcnow.udemy.com/course/vagrant-up/learn/lecture/1666296#overview)
 16. [Certified Kubernetes Administrator 2026](https://hpcnow.udemy.com/course/certified-kubernetes-administrator/learn/lecture/48232171#overview)
 17. [COMPLETE] [Docker for the Absolute Beginner - Hands On - DevOps ](https://hpcnow.udemy.com/course/learn-docker/learn/lecture/7894016?start=0#overview)
-18. [Certified Kubernetes Administrator (CKA) Hands-On Training](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-cka-real-world/learn/lecture/41751352#overview)
+18. [COMPLETE] [Certified Kubernetes Administrator (CKA) Hands-On Training](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-cka-real-world/learn/lecture/41751352#overview)
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
@@ -37,3 +37,10 @@ Tutorials:
 3. [Advanced Nextflow Training](https://training.nextflow.io/latest/#advanced-nextflow-training)
 4. [Spack 101](https://spack-tutorial.readthedocs.io/en/latest/)
 5. [Thanos Intro: Global View and seamless HA for Prometheus](https://killercoda.com/thanos/scenario/1-globalview)
+6. [EasyBuild tutorial](https://tutorial.easybuild.io/2023-eb-eessi-uk-workshop/easybuild-introduction/)
+7. [eBPF](https://github.com/eunomia-bpf/bpf-developer-tutorial)
+8. [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+Exams:
+1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by the Linux Foundation
+
