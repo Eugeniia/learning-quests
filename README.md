@@ -30,6 +30,10 @@ Udemy courses:
 16. [Certified Kubernetes Administrator 2026](https://hpcnow.udemy.com/course/certified-kubernetes-administrator/learn/lecture/48232171#overview)
 17. [COMPLETE] [Docker for the Absolute Beginner - Hands On - DevOps ](https://hpcnow.udemy.com/course/learn-docker/learn/lecture/7894016?start=0#overview)
 18. [COMPLETE] [Certified Kubernetes Administrator (CKA) Hands-On Training](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-cka-real-world/learn/lecture/41751352#overview)
+19. [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
+20. [Docker - SWARM - Hands-on](https://hpcnow.udemy.com/course/learn-docker-advanced/learn/lecture/8353842#overview)
+21. [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
+
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
