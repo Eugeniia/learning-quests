@@ -4,7 +4,7 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF
+Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF, MongoDB
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
@@ -18,7 +18,7 @@ Udemy courses:
 4. [OpenStack Essentials](https://hpcnow.udemy.com/course/openstack/learn/lecture/6728818#overview)
 5. [QC101 Quantum Computing & Intro to Quantum Machine Learning](https://hpcnow.udemy.com/course/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/learn/)
 6. [The Complete Quantum Computing Course](https://hpcnow.udemy.com/course/quantum-computers/learn/lecture/26937358#overview)
-7. [Kubernetes for the Absolute Beginners - Hands-on](https://hpcnow.udemy.com/course/learn-kubernetes/learn/lecture/9703196#overview)
+7. [COMPLETE] [Kubernetes for the Absolute Beginners - Hands-on](https://hpcnow.udemy.com/course/learn-kubernetes/learn/lecture/9703196#overview)
 8. [Ethical Hacking with Python and Kali Linux from Scratch](https://hpcnow.udemy.com/course/learn-ethical-hacking-with-python-and-kali-from-scratch/learn/lecture/50771907#overview)
 9. [COMPLETE] [Terraform for the Absolute Beginners with Labs](https://hpcnow.udemy.com/course/terraform-for-the-absolute-beginners/learn/lecture/27877152#overview)
 10. [AWS Infrastructure as Code With Terraform](https://hpcnow.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/learn/lecture/5890850#overview)
@@ -33,6 +33,7 @@ Udemy courses:
 19. [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
 20. [Docker - SWARM - Hands-on](https://hpcnow.udemy.com/course/learn-docker-advanced/learn/lecture/8353842#overview)
 21. [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
+22. [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
 
 
 Tutorials:
