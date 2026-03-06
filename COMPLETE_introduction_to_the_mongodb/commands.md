@@ -8,4 +8,3 @@ use admin
 show collections
 use local
 db.stats()
-

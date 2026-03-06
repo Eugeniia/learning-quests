@@ -33,7 +33,7 @@ Udemy courses:
 19. [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
 20. [Docker - SWARM - Hands-on](https://hpcnow.udemy.com/course/learn-docker-advanced/learn/lecture/8353842#overview)
 21. [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
-22. [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
+22. [COMPLETE] [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
 
 
 Tutorials:
