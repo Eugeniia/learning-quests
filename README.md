@@ -30,11 +30,14 @@ Udemy courses:
 16. [Certified Kubernetes Administrator 2026](https://hpcnow.udemy.com/course/certified-kubernetes-administrator/learn/lecture/48232171#overview)
 17. [COMPLETE] [Docker for the Absolute Beginner - Hands On - DevOps ](https://hpcnow.udemy.com/course/learn-docker/learn/lecture/7894016?start=0#overview)
 18. [COMPLETE] [Certified Kubernetes Administrator (CKA) Hands-On Training](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-cka-real-world/learn/lecture/41751352#overview)
-19. [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
+19. [COMPLETE] [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
 20. [Docker - SWARM - Hands-on](https://hpcnow.udemy.com/course/learn-docker-advanced/learn/lecture/8353842#overview)
 21. [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
 22. [COMPLETE] [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
+23. [MongoDB - The Complete Developer's Guide](https://hpcnow.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/13914002#overview)
 
+Stepik courses:
+1. 
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
@@ -45,6 +48,7 @@ Tutorials:
 6. [EasyBuild tutorial](https://tutorial.easybuild.io/2023-eb-eessi-uk-workshop/easybuild-introduction/)
 7. [eBPF](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 8. [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+9. [HPC Toolset Tutorial](https://github.com/ubccr/hpc-toolset-tutorial)
 
 Exams:
 1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by the Linux Foundation
