@@ -32,7 +32,7 @@ Udemy courses:
 18. [COMPLETE] [Certified Kubernetes Administrator (CKA) Hands-On Training](https://hpcnow.udemy.com/course/certified-kubernetes-administrator-cka-real-world/learn/lecture/41751352#overview)
 19. [COMPLETE] [Ansible for the Absolute Beginner - Hands-On](https://hpcnow.udemy.com/course/learn-ansible/learn/lecture/7040832#overview)
 20. [Docker - SWARM - Hands-on](https://hpcnow.udemy.com/course/learn-docker-advanced/learn/lecture/8353842#overview)
-21. [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
+21. [COMPLETE] [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
 22. [COMPLETE] [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
 23. [MongoDB - The Complete Developer's Guide](https://hpcnow.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/13914002#overview)
 
