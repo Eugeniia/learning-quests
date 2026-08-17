@@ -40,9 +40,16 @@ Udemy courses:
 26. [Prepare for RHCSA Exam with Practice Course(EX200-RHEL 10)](https://hpcnow.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview)
 27. [AI Fundamentals 2026: Safe AI Skills for Work](https://hpcnow.udemy.com/course/ai-fundamentals-safe-ai-literacy-skills-for-work/learn/lecture/56054721#overview)
 28. [COMPLETE] [Generative AI for Beginners](https://hpcnow.udemy.com/course/generative-ai-for-beginners-b/learn/lecture/40811084#overview)
-29. [Executive Briefing: Artificial Intelligence (AI) + ChatGPT](https://hpcnow.udemy.com/course/executive-briefing-artificial-intelligence/learn/lecture/40269340#overview) 
+29. [COMPLETE] [Executive Briefing: Artificial Intelligence (AI) + ChatGPT](https://hpcnow.udemy.com/course/executive-briefing-artificial-intelligence/learn/lecture/40269340#overview)
+30. [Agentic AI for Beginners: Build AI Agents with LangGraph](https://hpcnow.udemy.com/course/agentic-ai-for-beginners/learn/lecture/53633947#overview)
+
+Stepik courses:
+
+1. [Введение в язык программирования Go (Golang)](https://stepik.org/course/172812/syllabus)
+2. [Telegram-бот на Python за вечер — с нуля на aiogram](https://stepik.org/course/268845/syllabus) 
 
 Tutorials:
+
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
 2. [Nextflow for Science](https://training.nextflow.io/latest/#nextflow-for-science)
 3. [Advanced Nextflow Training](https://training.nextflow.io/latest/#advanced-nextflow-training)
@@ -56,9 +63,11 @@ Tutorials:
 11. [Slinky]()
 
 NVIDIA's courses:
+
 1. [Agentic AI Learning Path](https://developer.nvidia.com/topics/ai/agentic-ai-learning-path#)
 
 Exams:
+
 1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by the Linux Foundation
 2. [Red Hat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
 
