@@ -4,7 +4,7 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF, MongoDB
+Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF, MongoDB, Slinky
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
@@ -35,6 +35,11 @@ Udemy courses:
 21. [COMPLETE] [Ansible Advanced - Hands-On](https://hpcnow.udemy.com/course/learn-ansible-advanced/learn/lecture/7687716#overview)
 22. [COMPLETE] [Introduction to the MongoDB](https://hpcnow.udemy.com/course/introduction-to-the-mongodb/learn/lecture/11107736#overview)
 23. [MongoDB - The Complete Developer's Guide](https://hpcnow.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/13914002#overview)
+24. [Linux Redhat Certified System Administrator (RHCSA - EX200)](https://hpcnow.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa/learn/lecture/26272498#overview)
+25. [Red Hat Training and Certification - RHEL 8/9 (RH124)](https://hpcnow.udemy.com/course/redhat-linux-administration-l/learn/lecture/52844493#overview)
+26. [Prepare for RHCSA Exam with Practice Course(EX200-RHEL 10)](https://hpcnow.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview)
+27. [AI Fundamentals 2026: Safe AI Skills for Work](https://hpcnow.udemy.com/course/ai-fundamentals-safe-ai-literacy-skills-for-work/learn/lecture/56054721#overview)
+28. [Generative AI for Beginners](https://hpcnow.udemy.com/course/generative-ai-for-beginners-b/learn/lecture/40811084#overview)
 
 Tutorials:
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
@@ -46,8 +51,13 @@ Tutorials:
 7. [eBPF](https://github.com/eunomia-bpf/bpf-developer-tutorial)
 8. [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 9. [HPC Toolset Tutorial](https://github.com/ubccr/hpc-toolset-tutorial)
-10. [Volcano](https://volcano.sh/en/docs/)  
+10. [Volcano](https://volcano.sh/en/docs/)
+11. [Slinky]()
+
+NVIDIA's courses:
+1. [Agentic AI Learning Path](https://developer.nvidia.com/topics/ai/agentic-ai-learning-path#)
 
 Exams:
 1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by the Linux Foundation
+2. [Red Hat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
 
