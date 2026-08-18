@@ -37,7 +37,7 @@ Udemy courses:
 23. [MongoDB - The Complete Developer's Guide](https://hpcnow.udemy.com/course/mongodb-the-complete-developers-guide/learn/lecture/13914002#overview)
 24. [Linux Redhat Certified System Administrator (RHCSA - EX200)](https://hpcnow.udemy.com/course/unofficial-linux-redhat-certified-system-administrator-rhcsa/learn/lecture/26272498#overview)
 25. [Red Hat Training and Certification - RHEL 8/9 (RH124)](https://hpcnow.udemy.com/course/redhat-linux-administration-l/learn/lecture/52844493#overview)
-26. [Prepare for RHCSA Exam with Practice Course(EX200-RHEL 10)](https://hpcnow.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview)
+26. [Prepare for RHCSA Exam with Practice Course (EX200-RHEL 10)](https://hpcnow.udemy.com/course/prepare-rhcsa-with-practice-course-unoffical/learn/lecture/52584637?start=0#overview)
 27. [AI Fundamentals 2026: Safe AI Skills for Work](https://hpcnow.udemy.com/course/ai-fundamentals-safe-ai-literacy-skills-for-work/learn/lecture/56054721#overview)
 28. [COMPLETE] [Generative AI for Beginners](https://hpcnow.udemy.com/course/generative-ai-for-beginners-b/learn/lecture/40811084#overview)
 29. [COMPLETE] [Executive Briefing: Artificial Intelligence (AI) + ChatGPT](https://hpcnow.udemy.com/course/executive-briefing-artificial-intelligence/learn/lecture/40269340#overview)

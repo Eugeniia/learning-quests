@@ -34,4 +34,6 @@ Provide specific feedback.
 Pseudonymisation.
 
 # Personalized Language Models (CustomGPTs / Copilot Agents)
+Custom GPT - a configure version of ChatGPT with a stable role, instructions, and reference material. 
+
 
