@@ -43,6 +43,11 @@ Udemy courses:
 29. [COMPLETE] [Executive Briefing: Artificial Intelligence (AI) + ChatGPT](https://hpcnow.udemy.com/course/executive-briefing-artificial-intelligence/learn/lecture/40269340#overview)
 30. [Agentic AI for Beginners: Build AI Agents with LangGraph](https://hpcnow.udemy.com/course/agentic-ai-for-beginners/learn/lecture/53633947#overview)
 
+LinkedIn Learning course:
+
+1. [Agentic AI: Build Your First Agentic AI System](https://www.linkedin.com/learning/agentic-ai-build-your-first-agentic-ai-system/building-the-right-way-launch-your-agentic-ai-journey)
+2. [Designing Agentic AI Products](https://www.linkedin.com/learning/designing-agentic-ai-products-no-code-required/designing-autonomous-agentic-products) 
+
 Stepik courses:
 
 1. [Введение в язык программирования Go (Golang)](https://stepik.org/course/172812/syllabus)
