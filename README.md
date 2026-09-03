@@ -4,7 +4,7 @@
 
 This repository contains data & scripts that I created and used over time to learn new technologies and tools from different online courses and tutorials.
 
-Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF, MongoDB, Slinky
+Tech stack: Ansible, Docker, Kubernetes, IBM Qickit, OpenStack, Terraform, AWS, Packer, Vagrant, Nextflow, Spack, Thanos, EasyBuild, EESSI, eBPF, MongoDB, Slinky, OpenNebula
 
 Operating systems: Red Hat Enterprise (RHE) Linux
 
@@ -53,7 +53,11 @@ Stepik courses:
 1. [Введение в язык программирования Go (Golang)](https://stepik.org/course/172812/syllabus)
 2. [Telegram-бот на Python за вечер — с нуля на aiogram](https://stepik.org/course/268845/syllabus) 
 
-Tutorials:
+NVIDIA's courses:
+
+1. [Agentic AI Learning Path](https://developer.nvidia.com/topics/ai/agentic-ai-learning-path#)
+
+Other courses and tutorials:
 
 1. [Nextflow for Newcomers](https://training.nextflow.io/latest/#nextflow-for-newcomers)
 2. [Nextflow for Science](https://training.nextflow.io/latest/#nextflow-for-science)
@@ -66,13 +70,11 @@ Tutorials:
 9. [HPC Toolset Tutorial](https://github.com/ubccr/hpc-toolset-tutorial)
 10. [Volcano](https://volcano.sh/en/docs/)
 11. [Slinky]()
-
-NVIDIA's courses:
-
-1. [Agentic AI Learning Path](https://developer.nvidia.com/topics/ai/agentic-ai-learning-path#)
+12. [OpenNebula Certified Practitioner Course](https://www.youtube.com/playlist?list=PLXw1t0Jh8aSM)
 
 Exams:
 
 1. [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) by the Linux Foundation
 2. [Red Hat Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
+3. [OpenNebula Certified Practitioner Exam](https://www.eventbrite.com/e/opennebula-certified-practitioner-exam-eur-tickets-1992686578197?keep_tld=true)
 
